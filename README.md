@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+use React.JS
+use styled-components for styling 
+use react-chartjs-2 for chart
+use react-advanced-datetimerange-picker for filter feature, date picker
+
 ## Available Scripts
 
 In the project directory, you can run:
