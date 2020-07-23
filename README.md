@@ -1,10 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Description
-use React.JS
-use styled-components for styling 
-use react-chartjs-2 for chart
-use react-advanced-datetimerange-picker for filter feature, date picker
+Advotics Frontend Test, base on mockup that I received. it not perfect but I hope you like it! :) <br />
+using React.JS <br />
+using styled-components for styling <br />
+using react-chartjs-2 for chart <br />
+using react-advanced-datetimerange-picker for filter feature, date picker <br />
 
 ## Available Scripts
 
